@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{25B1F85C-D04E-418D-9AA9-C90E1F90B170}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.AcquaintDemoLive PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AcquaintDemoLive/AppInitializer.cs">
+    <Files>
+      <File FileName="AcquaintDemoLive/AppInitializer.cs" Line="37" Column="56" />
+      <File FileName="AcquaintDemoLive/Tests.cs" Line="37" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AcquaintDemoLive" expanded="True">
+            <Node name="AcquaintDemoLive" expanded="True">
+              <Node name="AcquaintDemoLive" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
